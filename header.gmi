@@ -4,8 +4,8 @@ Un agregador de noticias de cápsulas Gemini sobre GNU/Linux, software libre, te
 
 => index.gmi Inicio
 => https://github.com/ricardogj08/planetalibre Código fuente
-=> capsulas.gemini Cápsulas Gemini
-=> acerca-de.gemini Acerca de...
+=> capsulas.gmi Cápsulas Gemini
+=> acerca-de.gmi Acerca de...
 => atom.xml Feed de PlanetaLibre
 
 ```Dibujo en ASCII del planeta Tierra.

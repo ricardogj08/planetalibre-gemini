@@ -2,10 +2,10 @@
 
 Un agregador de noticias de cápsulas Gemini sobre GNU/Linux, software libre, tecnología y privacidad.
 
-=> index.gemini Inicio
+=> index.gmi Inicio
 => https://github.com/ricardogj08/planetalibre Código fuente
-=> capsulas.gemini Cápsulas Gemini
-=> acerca-de.gemini Acerca de...
+=> capsulas.gmi Cápsulas Gemini
+=> acerca-de.gmi Acerca de...
 => atom.xml Feed de PlanetaLibre
 
 # Acerca de...
@@ -18,7 +18,7 @@ PlanetaLibre es un sitio web en Gemini que recopila noticias sobre GNU/Linux, so
 
 La recopilación de fuentes y la actualización del sitio web se realiza todos los días a las 10 a.m. y 6 p.m. en horario de la Ciudad de México. Se realiza de manera automática mediante una tarea en cron desde una Orange Pi PC con Arch Linux ARM.
 
-> Desarrollado voluntariamente en MoonScript y basado en CAPCOM, espero que el programa y el sitio web sean de gran ayuda.
+> Desarrollado voluntariamente en Lua y basado en CAPCOM, espero que el programa y el sitio web sean de gran ayuda.
 
 => gemini://gemini.circumlunar.space/capcom/ Servicio web público de CAPCOM.
 => https://tildegit.org/solderpunk/CAPCOM Repositorio Git de CAPCOM.
