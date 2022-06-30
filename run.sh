@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Genera la càpsula de PlanetaLibre.
+# Genera la cápsula de PlanetaLibre.
 #
 
 cd ~/pkgs/planetalibre-gemini || exit
